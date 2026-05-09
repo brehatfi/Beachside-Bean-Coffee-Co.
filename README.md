@@ -13,7 +13,7 @@ The website serves as the technical artifact of the project, while the supportin
 Beachside Bean Coffee Co. is a fictional coastal coffee shop designed to represent a small business seeking a clean, inviting online presence. The website introduces the business, communicates its identity, and provides a basic but professional customer-facing experience.
 
 ## Live Website
-[Beachside Bean Coffee Co.](https://brehatfi.github.io/beachside-bean-coffee/)
+[Beachside Bean Coffee Co.](https://brehatfi.github.io/Beachside-Bean-Coffee-Co./)
 
 ## Repository Contents
 
