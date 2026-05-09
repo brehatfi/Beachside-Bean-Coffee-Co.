@@ -24,7 +24,7 @@ Beachside Bean Coffee Co. is a fictional coastal coffee shop designed to represe
 - `README.md` — repository homepage and project overview
 
 ### Documentation Folder
-The `docs/` folder contains the project management documentation:
+The [docs](https://github.com/brehatfi/Beachside-Bean-Coffee-Co./tree/main/docs) folder contains the project management documentation:
 
 - [`scope.md`](docs/scope.md) — Project Scope Statement
 - [`plan.md`](docs/plan.md) — project plan with TAME risk analysis and work breakdown structure
